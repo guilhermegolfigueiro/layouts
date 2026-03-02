@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+body {
+   background-color: rgb(255, 255, 255);
+}
+
+.fundo {
+   padding: 50;
+   margin: 20;
+   background-color: rgb(255, 250, 201);
+
+}
