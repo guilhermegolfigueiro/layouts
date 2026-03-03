@@ -44,3 +44,11 @@ body {
 .colunmed{
    height: 220px;
 }
+
+.colunamed{
+   height: 240px;
+}
+
+a{
+   color: aliceblue;
+}
